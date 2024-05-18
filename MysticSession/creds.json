@@ -1,0 +1,67 @@
+("noiseKey": {"private":
+
+("type":"Buffer","data":"8LurHCgby5qdpBzsLUUgZUVzFGkQYBEYLSJ+TFvxCnl="},"public":
+
+("type":"Buffer","data":"1bPG5T/ EphemeralKeyPai
+
+v8EJOey+wF0YsqCAiOcu5JZy1w0sw6wy3e10="}},"pairing
+
+r":{"private":{"type": "Buffer","data":"YH0Cr/
+
+DHFYATOtNVv1Zu775uinswbWmsvzemPMQVZmg="),"public":{"typ
+
+e": "Buffer", "data":"llt3cxl5yUyv9oFHmFy86SPCMKYP2zKRbetXuCnwvhQ="}},"signedIdentity Key:{"private":{
+
+"type":"Buffer","data": "mEa9/G9pK5w0GAIDxt+FCcPejsWyrNq0xHmqSaU/2IE="},"public":
+
+("type":"Buffer","da
+
+ta":"zgP47f1YY5uMSvwu522uQM+n1ypw9h8l6qxntpuDPDk=")), "signed PreKey":("keyPair":
+
+("private":{"type": "B
+
+uffer","data": "MHB9sChbj9nl6jtZAGCKLRyuFWKT2yZoe8qBNUlhC3c="},"public": ("type": "Buffer", "data":"ciSf
+
+10R0fCaPMMDGrOZq1BCrcDrHBn1gYFIE0MRQtQk="}}, "signature":
+
+("type":"Buffer","data":"4w9nSDYqhSMFsSg013+
+
+OwtVaBUmEpjHUhgw38NN7JMWv6avKpnXP4ngVjpHceWUueHHSV36xyFFWy0Ac/
+
+6Piiw==","keyld":1}, "registrationld":
+
+30,"advSecretKey":"1DrPLVwZe2wv9CMIAHGdz1lUruM6Cnlk7gh9B6NK+Bs=", "processedH istoryMessages":[],"next
+
+PreKeyid":31,"first Unuploaded PreKeyld":31,"account SyncCounter":0," accountSettings": ("unarchiveChats'
+
+false), deviceld": "DKY-Zdt9Toe-pj9_eR7Vg","phoneld":"3d1edeb5-9f88-41b9- b3b1-852fa7aec0b6","identi
+
+tyld":
+
+("type":"Buffer","data":"CjC475wajgWIGh1JsKn35kPZ.JhQ="},"registered":true,"backup Toke n":{"type
+
+":"Buffer","data": "fUZqgtricYKNFdEMVY8j4Yrb5UI="},"registration":
+
+(),"pairingCode":"V2KRCYVX','me":{"
+
+id":"249129477921:2@s.whatsapp.net"},"account": ("details":"COqqgoAHEJH8or IGGAIgACgA","account Signatu
+
+reKey": "M/SPeWdYB3KkiaScBkZH/
+
+9YDR12DetgScK7cBzK4sC4=','accountSignature":"A1HQ5jMLsiLti52SDUd8HQqmqz
+
+eovYoPYRXBMJx5likZoMktSXQ18zyxBBy96qFjnR1sHFzysplgTix4VDVYBQ==","deviceSign
+
+ature":"sakTBwCTNOUsb7ym2
+
+bYRmcVk9/H7M9quTVPnAB12GHr+ZrOg2Vksrj/
+
+uR+j3FY1xF4unbmX4bfYugjDPzNoiiw=="), signalldentities":[{"iden
+
+tifier":{"name":"249129477921:2@s.whatsapp.net', 'deviceld":0},"identifierKey":
+
+("type": "Buffer"," data ":"BTP0j3InWAdyplmknAZGR//
+
+WA0ddg3rYEnCu3AcyuLAu")}],"platform":"android","lastAccountSyncTimestamp":
+
+1716043284)
